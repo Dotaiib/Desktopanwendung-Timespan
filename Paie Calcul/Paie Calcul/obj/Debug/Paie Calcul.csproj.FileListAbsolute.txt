@@ -1,0 +1,14 @@
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\bin\Debug\Paie Calcul.exe.config
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\bin\Debug\Paie Calcul.exe
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\bin\Debug\Paie Calcul.pdb
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie Calcul.csprojAssemblyReference.cache
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Form1.resources
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Properties.Resources.resources
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie Calcul.csproj.GenerateResource.cache
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie Calcul.csproj.CoreCompileInputs.cache
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie Calcul.exe
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie Calcul.pdb
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Form2.resources
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Form3.resources
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Form4.resources
+C:\Users\m.richy\source\repos\Paie Calcul\Paie Calcul\obj\Debug\Paie_Calcul.Form5.resources
